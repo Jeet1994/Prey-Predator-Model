@@ -1,0 +1,11 @@
+Package: PPredat
+Title: Function to automatically take the alpha, beta, gamma and delta parameters and plot them for you in  a population vs time graph
+Version: 0.0.1
+Authors@R: person("Pragyaditya", "Das", email = "daspragyaditya@gmail.com", role = c("aut", "cre"))
+Maintainer: Pragyaditya Das <daspragyaditya@gmail>
+Description: Plots the Prey Predictor model.
+Depends: R (>= 3.3.1), deSolver
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1.9000
